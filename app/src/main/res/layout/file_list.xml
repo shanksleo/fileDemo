@@ -7,7 +7,7 @@
         android:id="@+id/leftList"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:layout_weight="1"></ListView>
+        android:layout_weight="4"></ListView>
     <ListView
         android:id="@+id/rightList"
         android:layout_width="wrap_content"
